@@ -3,5 +3,5 @@
 
 Click The coin!
 
-Play Here : 
+Play Here : https://coinclickergame.github.io/
 
